@@ -1,0 +1,3 @@
+// JenkinsFile
+@Library('demo-shared-lib') _
+hellojob 'admin_hello_world'
