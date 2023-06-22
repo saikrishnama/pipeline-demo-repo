@@ -1,4 +1,4 @@
 // JenkinsFile
 @Library('demo-shared-lib') _
 hellojob 'admin_hello_world'
-maven-java 'https://github.com/saikrishnama/demo-in-actions.git'
+mavenjava 'https://github.com/saikrishnama/demo-in-actions.git'
